@@ -1,3 +1,4 @@
 {
-    "mongoURI":"mongodb+srv://piyush:India@123@devconnector.wic8b.mongodb.net/<dbname>?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://piyush:India@123@devconnector.wic8b.mongodb.net/devconnector?retryWrites=true&w=majority",
+  "jwtSecret": "mysecretkey"
 }
